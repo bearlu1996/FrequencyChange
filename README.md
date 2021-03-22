@@ -2,7 +2,7 @@
 
 Prototype for paper: 
 
-Yang Lu, Qifan Chen, & Simon Poon. (2021). Detecting and Understanding Branching Frequency Changes in Process Models. arXiv preprint arXiv:2103.07052. arXiv:2103.10742 
+Lu, Y., Chen, Q., & Poon, S. (2021). Detecting and Understanding Branching Frequency Changes in Process Models. arXiv preprint [arXiv:2103.07052](https://arxiv.org/abs/2103.10742).
 
 Required packages:
 
